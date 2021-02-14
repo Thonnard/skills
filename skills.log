@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.1)  14 FEB 2021 13:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.1)  14 FEB 2021 19:11
 entering extended mode
 **./skills.tex
 (skills.tex
@@ -1267,11 +1267,11 @@ Package rerunfilecheck Info: File `skills.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 25538 strings out of 480756
- 490642 string characters out of 2893798
- 833077 words of memory out of 3000000
+ 25544 strings out of 480756
+ 490768 string characters out of 2893798
+ 833169 words of memory out of 3000000
  40948 multiletter control sequences out of 15000+200000
- 606213 words of font info for 83 fonts, out of 3000000 for 9000
+ 606655 words of font info for 87 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  76i,15n,76p,795b,1160s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/David/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/clearsans/c
@@ -1284,7 +1284,7 @@ Bold.pfb><C:/Users/David/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/intel/cl
 earsans/ClearSans-Italic.pfb><C:/Users/David/AppData/Local/Programs/MiKTeX 2.9/
 fonts/type1/intel/clearsans/ClearSans-Regular.pfb><C:/Users/David/AppData/Local
 /Programs/MiKTeX 2.9/fonts/type1/public/fontawesome/FontAwesome.pfb>
-Output written on skills.pdf (2 pages, 1196304 bytes).
+Output written on skills.pdf (2 pages, 1196400 bytes).
 PDF statistics:
  97 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
